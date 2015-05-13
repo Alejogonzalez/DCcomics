@@ -9,4 +9,5 @@
     <string name="batman">BATMAN</string>
     <string name="robin">ROBIN</string>
     <string name="batman1">Power of Money</string>
+    <string name="title_activity_splash">splash</string>
 </resources>
