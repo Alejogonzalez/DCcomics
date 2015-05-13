@@ -17,12 +17,12 @@ public class MyPagerAdapter extends FragmentStatePagerAdapter{
         this.fragments = listaFragments;
     }
     @Override
-    public Fragment getItem(int i) {
-        return null;
+    public Fragment getItem(int position) {
+        return fragments.get(position);
     }
 
     @Override
     public int getCount() {
-        return 0;
+        return fragments.size();
     }
 }
