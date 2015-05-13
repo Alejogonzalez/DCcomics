@@ -9,5 +9,7 @@
     <string name="batman">BATMAN</string>
     <string name="robin">ROBIN</string>
     <string name="batman1">Power of Money</string>
+    <string name="harley">Harley Queen</string>
+    <string name="harley1">A Bad Bad Girl</string>
     <string name="title_activity_splash">splash</string>
 </resources>
