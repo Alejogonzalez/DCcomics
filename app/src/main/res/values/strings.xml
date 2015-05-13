@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DCcomics</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="batman">BATMAN</string>
+    <string name="robin">ROBIN</string>
+    <string name="batman1">Power of Money</string>
+</resources>
